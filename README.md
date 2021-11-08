@@ -1,2 +1,2 @@
-# RESUME
+# Resume
 Latest Resume
